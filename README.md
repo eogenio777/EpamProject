@@ -9,4 +9,5 @@
 Классы и интерфейсы должны быть хорошо структурированы по пакетам;
 Соблюдать Java Code Conventions;
 
-[Подружинский Проект.pdf](https://github.com/eogenio777/EpamProject/files/7604030/default.pdf)
+
+[Подружинский Проект.pdf](https://github.com/eogenio777/EpamProject/files/7604043/default.pdf)
